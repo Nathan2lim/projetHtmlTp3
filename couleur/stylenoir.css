@@ -1,0 +1,69 @@
+
+p{
+    
+    color: white;
+ 
+}
+
+
+
+.partie{
+    border: 3px red solid;
+}
+/*///////////////////////////////////  HEADERS        /////////////////////////////////////*/ 
+
+header
+{
+    background-color:black;
+    color: white;
+    border: white solid 2px;
+}
+section
+{
+    background-color: black; 
+    color: white;
+}
+footer{
+    background-color: grey;
+    color: white;
+}
+
+/*//////////////////////////////////// NAVIGATION /////////////////////////////////////*/ 
+
+#menu a {
+	border: thin solid white;
+    color: black;
+    background: gray;
+}
+ul
+{
+    background-color: black;
+}
+/*/////////////////////////////////// A PROPO DE MOI /////////////////////////////////////*/ 
+#imageApropoDeMoi
+{
+  
+    border : white solid 10px;
+    
+}
+
+
+/*/////////////////////////////////// MES ÉTUDES////////////////////////////////////*/ 
+
+/*/////////////////////////////////// MES COMPÉTANCE////////////////////////////////////*/ 
+table,td
+{
+    
+    border: 3px white solid;
+}
+
+/*/////////////////////////////////// LIEN HYPER TEXT////////////////////////////////////*/ 
+#lienhyper{
+
+   border: 3px white solid;
+   background-color: darkred;
+   color: dodgerblue;
+}
+
+
+
